@@ -2,7 +2,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=200&section=header&text=Hi%20I’m%20Abdus%20Sattar&fontSize=40&fontColor=ffffff&animation=fadeIn)
 
 ## 👨‍💻 About Me
-💼 Full-Stack Web Developer specializing in **WordPress & WooCommerce**, with 5+ years of experience delivering **100+ custom projects** for global clients.  
+💼 Full-Stack Web Developer specializing in **WordPress & WooCommerce**, with 8+ years of experience delivering **100+ custom projects** for global clients.  
 🚀 I help businesses grow by creating **high-performance, scalable eCommerce solutions** and integrating complex APIs.  
 🌱 Currently exploring **React.js**, **Node.js**, and advanced WooCommerce customization.  
 📫 Email: **sattar.3001@gmail.com**  
